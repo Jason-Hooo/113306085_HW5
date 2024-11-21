@@ -92,13 +92,13 @@ a:hover {
   text-decoration: underline;
 }
 
-.spotify-row {
+.spotify-column {
   display: grid;
   grid-template-columns: repeat(4, 120px);
   gap: 10px; 
 }
 
-.spotify-column {
+.spotify-row {
   display: grid;
   grid-template-rows: repeat(2, 50px); 
   place-items: center;

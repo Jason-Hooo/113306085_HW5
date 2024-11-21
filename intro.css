@@ -24,12 +24,11 @@ body {
   align-items: center;
 }
 
-
 .photo-panel {
   background-image: url('jason.jpg');
   background-size: cover;
   background-position: center;
-  height: 600px;
+  height: 50%;
   width: 100%;
 }
 

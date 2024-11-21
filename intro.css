@@ -64,7 +64,7 @@ h1 {
 
 .edu-column {
   display: grid;
-  grid-template-columns: 100px 400px;
+  grid-template-columns: 60px 440px;
 }
 
 .year {
